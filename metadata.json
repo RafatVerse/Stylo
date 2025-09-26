@@ -1,0 +1,5 @@
+{
+  "name": "Stylo",
+  "description": "Stylo: An AI-powered application to create professional product mockups. Upload your product image and a reference scene, and the AI will generate a high-quality, realistic product photograph.",
+  "requestFramePermissions": []
+}
